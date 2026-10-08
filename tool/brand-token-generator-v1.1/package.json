@@ -1,0 +1,12 @@
+{
+  "name": "brand-token-generator",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Primary/Secondary contrast palettes and accessible OKLCH state tokens",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "generate": "node generate-brand-colors.js",
+    "test": "node --test"
+  }
+}

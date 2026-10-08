@@ -1,0 +1,12 @@
+{
+  "name": "brand-token-generator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dependency-free OKLCH brand tokens with WCAG contrast checks",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "generate": "node generate-brand-colors.js",
+    "test": "node --test"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "brand-token-generator",
+  "version": "1.2.0",
+  "private": true,
+  "description": "Primary/Secondary color grades with audited 40/50/70/90 magic-number contrast rules",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "generate": "node generate-brand-colors.js",
+    "test": "node --test"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "primary": "#123E88",
+  "textColor": "white",
+  "minContrast": 4.5,
+  "hoverDelta": 0.08,
+  "pressedDelta": 0.16,
+  "subtleLightness": 0.96,
+  "subtleChromaFactor": 0.15,
+  "outputDir": "output"
+}
